@@ -60,8 +60,8 @@ A 2D rocket trajectory simulator with realistic physics, multi-stage support, an
 
 ```bash
 # Clone the repository
-git clone https://github.com/lguprojects/rocket-simulator.git
-cd rocket-simulator
+git clone https://github.com/lguprojects/Rocket-Simulator.git
+cd Rocket-Simulator
 
 # Install dependencies
 pip install -r requirements.txt
@@ -103,7 +103,7 @@ python examples/orbital_insertion.py
 ## 📁 Project Structure
 
 ```
-rocket-simulator/
+Rocket-Simulator/
 ├── rocket_simulator.py      # Main GUI application
 ├── physics/                 # Core physics simulation
 │   ├── __init__.py
