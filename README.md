@@ -60,7 +60,7 @@ A 2D rocket trajectory simulator with realistic physics, multi-stage support, an
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rocket-simulator.git
+git clone https://github.com/lguprojects/rocket-simulator.git
 cd rocket-simulator
 
 # Install dependencies
